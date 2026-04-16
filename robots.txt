@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reine-hub.github.io/Nerdflix/sitemap.xml
