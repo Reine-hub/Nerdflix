@@ -1,3 +1,17 @@
 User-agent: *
 Allow: /
+Disallow: 
+
 Sitemap: https://reine-hub.github.io/Nerdflix/sitemap.xml
+
+# Google-specific rules
+User-agent: Googlebot
+Allow: /
+
+# Bing-specific rules
+User-agent: Bingbot
+Allow: /
+
+# Other search engines
+User-agent: *
+Allow: /
